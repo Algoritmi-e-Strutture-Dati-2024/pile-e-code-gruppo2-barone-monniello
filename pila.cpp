@@ -43,4 +43,4 @@ public:
     int size() {
         return pila.size();  // n elementi pila
     }
-  
+};
